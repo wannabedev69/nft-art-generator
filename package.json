@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "boxen": "^5.0.1",
-    "canvas": "^2.8.0",
+    "canvas": "^2.11.2",
     "chalk": "^4.1.1",
     "image-data-uri": "^2.0.1",
     "inquirer": "^3.3.0",
